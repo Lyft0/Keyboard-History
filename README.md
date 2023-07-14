@@ -1,6 +1,6 @@
 # Keyboard History
 
-<img src="img/key_hist.png" alt="keyboard history">
+<img src="img/key_hist.png" alt="keyboard history" width="300px">
 
 Keyboard History is a keylogger program that record every keystrokes your typed and save them as a file or send it to you directly.
 
@@ -64,7 +64,7 @@ CHAT_ID = "YOUR CHAT_ID"
 
 4. Run the program.
 5. Keyboard History Bot will send the logs while the program running.
-<img src="img/ss2.png" alt="just refresh">
+<img src="img/ss2.png" alt="just refresh" width="500px">
 
 ### + File
 
